@@ -1,0 +1,128 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 18px;
+    border-right: 5px;
+    
+}
+.name-higilight{
+    color: rgb(228, 214, 21);
+}
+.name-high{
+    color: rgb(16, 224, 34);
+    font-style:inherit;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2;
+}
+.half-width img{
+    width: 100%;     
+}
+.have-witdh img{
+    width: 100%;
+}
+.have-witdh{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2;
+}
+.clik-button{
+    box-shadow: 10px 10px 30px rgb(63, 30, 30);
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(196, 61, 8);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: honeydew;
+    font-weight: 700;
+}
+.clik-buttons{ 
+    box-shadow: 10px 10px 30px rgb(49, 39, 39);
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(25, 16, 145);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: honeydew;
+    font-weight: 700;
+}
+.back-ground{
+    background-image: url("img/jjjjjjjjjjjj.png");
+    background-repeat: no-repeat;
+}
+.bak-ground{
+    float:left;
+    background-image: url("img/jjjjjjjjjjjj.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+section{
+    height: 500px;
+}
+footer h3{
+    text-align: center;
+}
+.nm-hi{
+    color: rgb(190, 7, 7);
+    font-size: 30px;
+}
+.nnm-high{
+    color: rgb(2, 36, 146);
+    font-size: 30px;
+}
+.hit-hit{
+    text-align: center;
+}
+.single-ex{
+    box-shadow: 10px 10px 30px rgb(161, 141, 141);
+    border-radius: 5px;
+}
+.single-ex{
+    width: 25%;
+}
+.new{
+    margin-top: 600px;
+    margin-left: 200px;
+    padding: 50px 100px 50px 100px;
+    background-color: rgb(196, 61, 8);
+    height: 50px;
+    width: 600px;
+    border: 1px solid rgb(190, 7, 7);
+    border-radius: 20px;
+
+}
+.number{
+    height: 300px;
+}
+.number .new #use{
+    margin-top: -45px;
+    margin-left: -70px;
+    color: rgb(228, 214, 21);
+    
+}
+.number .new #button a{
+margin-left: 500px;
+text-decoration: none;
+color: seashell;
+
+    border-radius: 5px;
+    background-color: rgb(69, 15, 155);
+    padding: 5px 10px 5px 10px;
+
+
+
+}
+#button{
+    margin-top: -100px;
+   
+}
